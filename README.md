@@ -3,10 +3,10 @@ Zigs & Zags (Z&Z) é um jogo de RPG de mesa com regras simples que cabem em um p
 
 Ele foi criado pela equipe do Laboratório de Ecologia Quantitativa da [UFAL](https://ufal.br) para uma oficina sobre RPG no Ensino de Biologia na [Semana da Biologia da UFAL](https://www.instagram.com/semabio_icbs/) em Setembro de 2023, e imaginado para uso em salas de aula ou outros contextos de ensino. Eu escrevi um pouco sobre o [lançamento do Z&Z na Semana da Biologia aqui](https://marcosvital.medium.com/rpg-de-mesa-na-universidade-f5061d9296db).
 
-## Sistema, licença e citações
+## Sistema, licença e citações:
 O sistema de jogo é uma adaptação de [Lasers and Feelings](http://www.onesevendesign.com/laserfeelings/) e de [Guaxinins e Gambiarras](https://guaxaverso.fandom.com/pt-br/wiki/Guaxinins_e_Gambiarras), e você pode distribuí-lo e modificá-lo à vontade, criando sua própria versão: ele é gratuito e está sob uma [licença CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt_BR).
 
-Se você usar Z&Z em alguma atividade acadêmica, pode nos citar usando o DOI: (citação aqui)
+Se você usar Z&Z em alguma atividade acadêmica, pode nos citar: Vital, Marcos Vinícius Carneiro; Oliveira, Thuane Alyce de Albuquerque; Teles, Lupin Martins Lisboa; Oliveira, Marcelle Heliópolis. Zigs & Zags: um RPG de asas e exoesqueletos. 2023. Disponível em <https://marcosvital.github.io/Zigs-Zags-RPG/>, DOI [10.5281/zenodo.8322683](https://zenodo.org/record/8322683)
 
 # Material para download
 
