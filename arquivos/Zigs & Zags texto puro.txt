@@ -1,0 +1,103 @@
+Zigs & Zags: um RPG com asas e exoesqueletos
+
+Zigs & Zags (Z&Z) é um jogo de RPG (Role Playing Game) de mesa com regras simples, no qual as personagens são insetos  interpretados como tendo inteligência humana e capacidade de comunicação com outros animais invertebrados (pense em filmes como FormiguinhaZ e Vida de Inseto).
+
+Nos jogos de RPG, cada pessoa que joga cria e interpreta uma personagem com características próprias, descrevendo o que a personagem faz, fala, sente ou pensa. O jogo é conduzido por uma pessoa que é a mestre do jogo, que cria situações, cenários e desafios para as personagens, narra as consequências das suas ações e controla o comportamento das demais personagens e do ambiente.
+
+Além da condução da pessoa que é mestre, muito do que acontece vai depender do sistema de regras: quando isso for necessário, serão feitas rolagens de dados que serão afetadas pelas características na sua ficha de personagem e pela situação sendo descrita. Lendo este material você terá tudo o que precisa para jogar Z&Z.
+
+marcosvital.github.io/Zigs-Zags-RPG
+
+Z&Z é uma adaptação dos sistemas Lasers and Feelings e Guaxinins e Gambiarras. Você pode distribuir e modificar à vontade: ele está sob uma licença CC-BY 4.0
+
+###Fim da página 1###
+
+Criando seu insetinho 
+
+Comece a imaginar o seu inseto: seu nome, características, personalidade e habilidades. Com isso em mente:
+
+Determine um conceito definidor, algo que funcione como uma descrição curta e direta. Exemplos: libélula rápida, besouro brutamontes, grilo sagaz.
+Determine uma proficiência - uma coisa que a personagem sabe fazer muito bem. Exemplos: camuflagem, mordida dolorida, cavar, vôo rápido.
+Determine um traço de personalidade que irá te ajudar a “dar cor” à personagem. Exemplos: rabugento, hiperativa, bem humorada, sarcástico.
+Determine seu atributo principal na “escala Zig-Zag”: é um número que vai de 2 a 5. Um insetinho com 2 se dá bem em desafios e tarefas que exijam habilidades mentais ou sociais, ou que requeiram sutileza ou esperteza. Já um insetinho com 5 se sai bem em tarefas que precisem de força bruta, resistência, ou feitos físicos no geral. 
+
+Se estiver em dúvida, continue a ler as regras do jogo para decidir melhor.   >>>>
+
+Por que Z&Z?
+
+Zig-Zag é um dos vários nomes populares das libélulas (insetos da ordem Odonata) no Brasil. E como adoramos libélulas, o nome veio fácil!
+
+###Fim da página 2###
+
+O sistema de regras
+
+Durante um jogo de RPG, quem é mestre apresenta situações e cenários, e quem controla as personagens descreve suas ações e falas. Normalmente quem é mestre usa apenas lógica, bom senso e o material que preparou para descrever o que acontece em resposta às ações das personagens. Mas de vez em quando há incerteza: será que o grilo vai conseguir se esconder de um pássaro? Será que o besouro vai conseguir rolar uma pedra e obstruir uma passagem? Será que a libélula vai ser capaz de convencer um grupo de abelhas a deixá-la passar? 
+
+Sempre que uma situação incerta ou desafiadora surgir, usamos o sistema de regras de Z&Z. Uma situação incerta é resolvida por um teste de atributo.
+
+Em um teste, a pessoa responsável pela personagem irá rolar de 1 a 4 dados, e registrar o resultado de cada um, contando o número de sucessos:
+Para uma ação física, você tem um sucesso para cada dado que teve um resultado menor ou igual ao atributo.
+Para uma ação mental ou social, você tem um sucesso para cada dado com resultado maior ou igual ao atributo.
+
+Nos jogos de RPG, 1d6 quer dizer 1 dado de 6 faces,  3d6 quer dizer 3 dados de 6 faces e assim por diante. Alguns jogos usam dados de formatos diferentes, mas Z&Z usa apenas dados tradicionais de 6 faces (os d6).
+
+###Fim da página 3###
+
+O sistema de regras
+
+Quantos dados eu devo rolar?
+Um teste padrão é feito com 2d6, mas ele é modificado de acordo com a situação.
+
+Você tem um dado a menos se:
+A tarefa for muito difícil e desafiadora;
+Alguém ou algo estiver atrapalhando;
+A personagem está cansada ou ferida.
+Você tem um dado a mais  se:
+A tarefa for muito fácil;
+A tarefa estiver ligada à proficiência;
+Alguém ou algo estiver ajudando;
+
+No final, você deve rolar no mínimo 1d6 e no máximo 4d6.
+
+Contando os sucessos:
+Nenhum sucesso: a tentativa da falha e algo de ruim acontece.
+Um sucesso: a tentativa da personagem dá certo por um triz! Algo de ruim ou desvantajoso acontece.
+Dois sucessos: a tentativa dá certo conforme o planejado.
+Três sucessos ou mais: a tentativa dá certo de uma forma muito boa, e o resultado é melhor do que o esperado!
+
+Z&Z é um sistema bem minimalista em suas regras, para ser fácil de usar (e para caber neste panfleto!). Você e seu grupo podem criar as próprias regras complementares, alterando e incrementando o sistema à vontade. Essa modularidade é uma das coisas que tornam os jogos de RPG tão legais e únicos!
+
+###Fim da página 4###
+
+Mais algumas regras
+
+Personagens feridas ou cansadas:
+Todas as personagens começam o jogo com zero pontos de exaustão, uma medida abstrata das suas condições físicas e mentais. Falhar em testes em situações estressantes, cansativas ou perigosas podem fazer a personagem receber um ponto e gerar consequências:
+1 ponto de exaustão: a personagem está levemente cansada, ferida e/ou mentalmente desestabilizada, mas sem consequências ainda.
+2 pontos de exaustão: a personagem está muito cansada, ferida e/ou mentalmente desestabilizada, e tem 1d6 a menos para todos os testes.
+3 pontos de exaustão: a personagem está à beira do colapso! Não pode agir, estando inconsciente ou debilitada.
+
+Tudo ao mesmo tempo!
+Em uma situação com várias personagens em conflito ou perigo, tudo acontece em um tempo de jogo chamado turno: o tempo para que um conjunto de ações sejam resolvidas. No turno cada personagem tem uma vez, até que todos tenham a chance de fazer ou tentar algo. Para determinar a ordem de cada um, compare o valor do atributo Zig-Zag: quem tem o menor valor age primeiro. Em caso de empate, as ações acontecem ao mesmo tempo!
+
+###Fim da página 5###
+
+Mestrando Z&Z 
+
+Se você quer “mestrar” Z&Z, não se intimide!  Sua forma de jogar é diferente, e você irá planejar elementos da sessão de jogo:  cenário, desafios, e personagens que não são dos jogadores. Evite roteiros rígidos, e deixe as coisas seguirem um rumo que seja divertido e até inusitado.
+
+ Como mestre, você fará as rolagens das personagens do cenário, determinar quantos dados serão lançados e quando os testes são necessários, além de poder ter que arbitrar o que acontece em situações não previstas nas regras. Seja leve e tente manter algum equilíbrio entre o desafio e a diversão. E não se esqueça de se divertir também, ok? :)
+
+Crie o seu insetinho aqui
+ Nome:
+ Conceito:
+ Proficiência:
+ Personalidade:
+ Atributo Zig & Zag:
+
+Quem criou este material?
+
+Z&Z foi criado pela equipe do Lab. de Ecologia Quantitativa para uma oficina sobre RPG na educação na Semana da Biologia da UFAL em 2023, e imaginado para uso em salas de aula.
+Autores: Marcos Vinícius Carneiro Vital, Thuane Alyce de Albuquerque Oliveira, Lupin Martins Lisboa Teles, Marcelle Heliópolis de Oliveira
+
+###Fim da página 6###
