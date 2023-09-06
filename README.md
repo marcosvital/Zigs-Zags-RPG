@@ -15,12 +15,12 @@ Você pode ter acesso ao panfleto de Z&Z em vários formatos, dependendo de como
 
 ## Para impressão em formato de folder, arquivos pdf:
 
-* [Baixe Z&Z na versão colorida para impressão aqui](https://github.com/marcosvital/Zigs-Zags-RPG/blob/main/arquivos/ZIGS%20%26%20ZAGS%20-%20vers%C3%A3o%2006-09-2023%20-%20para%20impress%C3%A3o%20em%20folder.pdf).
-* [Baixe Z&Z na versão preto e branco para impressão aqui](https://github.com/marcosvital/Zigs-Zags-RPG/blob/main/arquivos/ZIGS%20%26%20ZAGS%20-%20p%26b%20-%20vers%C3%A3o%2006-09-2023%20-%20para%20impress%C3%A3o%20em%20folder.pdf).
+* [Baixe Z&Z na versão colorida para impressão](https://github.com/marcosvital/Zigs-Zags-RPG/blob/main/arquivos/ZIGS%20%26%20ZAGS%20-%20vers%C3%A3o%2006-09-2023%20-%20para%20impress%C3%A3o%20em%20folder.pdf).
+* [Baixe Z&Z na versão preto e branco para impressão](https://github.com/marcosvital/Zigs-Zags-RPG/blob/main/arquivos/ZIGS%20%26%20ZAGS%20-%20p%26b%20-%20vers%C3%A3o%2006-09-2023%20-%20para%20impress%C3%A3o%20em%20folder.pdf).
 
 ## Para ler na tela do seu dispositivo, arquivo pdf:
 
-* [Baixe Z&Z na versão colorida para leitura digital aqui](https://github.com/marcosvital/Zigs-Zags-RPG/blob/main/arquivos/ZIGS%20%26%20ZAGS%20-%20vers%C3%A3o%2006-09-2023%20-%20para%20leitura%20digital.pdf).
+* [Baixe Z&Z na versão colorida para leitura digital](https://github.com/marcosvital/Zigs-Zags-RPG/blob/main/arquivos/ZIGS%20%26%20ZAGS%20-%20vers%C3%A3o%2006-09-2023%20-%20para%20leitura%20digital.pdf).
 
 ## Para baixar em outros formatos ou alterar o conteúdo:
 
@@ -42,6 +42,6 @@ A impressão do folder pode ser desafiadora a depender do tipo de impressora sen
 
 ## Contato
 
-Se você quiser entrar em contato, pode falar comigo (prof Marcos Vital) pelas informações [na minha página aqui](https://marcosvital.github.io) (é só usar os ícones para email ou rede social).
+Se você quiser entrar em contato, pode falar comigo (prof Marcos Vital) pelas informações [na minha página](https://marcosvital.github.io) (é só usar os ícones para email ou rede social).
 
 Fique à vontade para entrar em contato por qualquer motivo: se gostou de Z&Z, se usou e quer contar a experiência, se tem sugestões ou simplesmente se quiser trocar uma ideia. Vou ficar feliz de saber que o material despertou o interesse de outras pessoas! :)
