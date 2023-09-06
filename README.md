@@ -6,7 +6,8 @@ Ele foi criado pela equipe do Laboratório de Ecologia Quantitativa da [UFAL](ht
 ## Sistema, licença e citações:
 O sistema de jogo é uma adaptação de [Lasers and Feelings](http://www.onesevendesign.com/laserfeelings/) e de [Guaxinins e Gambiarras](https://guaxaverso.fandom.com/pt-br/wiki/Guaxinins_e_Gambiarras), e você pode distribuí-lo e modificá-lo à vontade, criando sua própria versão: ele é gratuito e está sob uma [licença CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt_BR).
 
-Se você usar Z&Z em alguma atividade acadêmica, pode nos citar: Vital, Marcos Vinícius Carneiro; Oliveira, Thuane Alyce de Albuquerque; Teles, Lupin Martins Lisboa; Oliveira, Marcelle Heliópolis. Zigs & Zags: um RPG de asas e exoesqueletos. 2023. Disponível em <https://marcosvital.github.io/Zigs-Zags-RPG/>, DOI [10.5281/zenodo.8322683](https://zenodo.org/record/8322683)
+Se você usar Z&Z em alguma atividade acadêmica, pode nos citar:
+> Vital, Marcos Vinícius Carneiro; Oliveira, Thuane Alyce de Albuquerque; Teles, Lupin Martins Lisboa; Oliveira, Marcelle Heliópolis. Zigs & Zags: um RPG de asas e exoesqueletos. 2023. Disponível em <https://marcosvital.github.io/Zigs-Zags-RPG/>, DOI [10.5281/zenodo.8322683](https://zenodo.org/record/8322683)
 
 # Material para download
 
