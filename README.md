@@ -31,7 +31,7 @@ Se você quer alterar ou editar o panfleto de alguma forma, seguem os modelos no
 
 ## Para ter acesso apenas ao conteúdo em texto:
 
-* Texto de Z&Z sem diagramação, em formato txt.
+* [Texto de Z&Z sem diagramação, em formato txt](https://github.com/marcosvital/Zigs-Zags-RPG/blob/main/arquivos/Zigs%20%26%20Zags%20texto%20puro.txt).
 
 ## Dicas para impressão do folder:
 
